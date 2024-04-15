@@ -2,7 +2,7 @@
 #include <windows.h>
 
 int main(){
-    printf("Hello, wordl!");
+    printf("Hello, world!");
     sleep(5);
     return 0;
 }
